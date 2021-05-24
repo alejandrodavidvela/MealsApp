@@ -1,6 +1,5 @@
 # MealsApp
 ![alt text](main1.png)
-![alt text](main2.png)
 ![alt text](main3.png)
 
 
