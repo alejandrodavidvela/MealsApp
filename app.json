@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RN Guide",
-    "slug": "rn-complete-guide",
+    "name": "Meals App",
+    "slug": "meals-app",
     "privacy": "public",
     "platforms": [
       "ios",
@@ -24,6 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
